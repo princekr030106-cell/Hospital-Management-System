@@ -227,9 +227,9 @@ This project is developed for educational and software development purposes. Add
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Prince Kumar**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/princekr030106-cell
 
 ---
 
