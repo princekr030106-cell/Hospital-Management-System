@@ -81,7 +81,7 @@ Hospital-Management-System/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/princekr030106-cell/Hospital-Management-System.git
 ```
 
 Navigate to the project directory:
